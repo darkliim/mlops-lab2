@@ -1,0 +1,12 @@
+# Secrets & OS files
+.env
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large data & model artifacts
+data/*.csv
+models/*.pkl
+*.log
